@@ -1,0 +1,1 @@
+//t: este archivo contiene la clase NetworkService, que usa el patrón singleton para crear y acceder a una instancia del cliente http. Esta clase usa el paquete http para realizar las peticiones a la API y el paquete dio para manejar las excepciones y los errores.

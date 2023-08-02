@@ -1,0 +1,1 @@
+//este archivo contiene la clase NetworkDataSource, que implementa la interfaz ProductDataSource del dominio. Esta clase se encarga de obtener y enviar los productos desde una API externa, usando el paquete http.

@@ -1,0 +1,26 @@
+dependencias recomendadas
+
+    flutter_stripe: ^9.2.2:
+        Es el plugin oficial de stripe por lo que nos permite implementar su pasarela de pagos de manera sencilla.
+        Requiere Android 5.0 (API level 21) y superiores, iOS 13 or superiores.
+        compatible con apple pay y google pay.
+
+    flutter_local_notifications: ^15.0.0:
+        facilita el desarrollo de notificaciones personalizadas para el usuario
+        Requiere Android 4.1  o superiores, iOS 8.0 or superiores.
+
+    flutter_native_splash: ^2.3.1:
+        permite crear una pantalla de inicio nativa para tu aplicación Flutter, con un color de fondo y una imagen personalizados,
+
+    path_provider: ^2.0.15:
+        proporciona rutas de acceso a ubicaciones de almacenamiento comunes en iOS y Android.
+
+    flutter_bloc: ^8.1.3:
+        es una implementación de la arquitectura BLoC con enfoque en la separación de la interfaz de usuario y la lógica comercial,
+        facilita la implementación de patrones de diseño como BLoC y cubos de datos.
+
+    sqflite: ^2.0.0+4:
+        es un complemento de Flutter para SQLite, un sistema de base de datos relacional en el dispositivo.
+
+    http: ^0.13.4:
+        es un complemento de Flutter para realizar solicitudes HTTP.

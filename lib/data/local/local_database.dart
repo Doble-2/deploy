@@ -1,0 +1,1 @@
+//local_database.dart: este archivo contiene la clase LocalDatabase, que usa el patrón singleton para crear y acceder a una instancia de la base de datos local. Esta clase usa el paquete path_provider para obtener el directorio donde se almacena la base de datos y el paquete sqflite para crear y operar con las tablas y los registros.

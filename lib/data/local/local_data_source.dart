@@ -1,0 +1,1 @@
+//este archivo contiene la clase LocalDataSource, que implementa la interfaz ProductDataSource del dominio. Esta clase se encarga de obtener y guardar los productos desde una base de datos local, usando el paquete sqflite.
