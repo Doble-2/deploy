@@ -1,0 +1,125 @@
+﻿Directory listing by DirLister, 2023-07-30 12:56:42:
+* C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ files: 32, size: 78.27KB
+
+Source, updates and support: https://github.com/SanderSade/DirLister/
+
+
+===============================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\
+===============================================
+architercture.txt
+main.dart
+my_app.dart
+
+
+==========================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\data\local\
+==========================================================
+local_data_source.dart
+local_database.dart
+
+
+============================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\data\network\
+============================================================
+authentication_repository.dart
+mock_network_service.dart
+network_data_source.dart
+network_service.dart
+
+
+====================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\data\
+====================================================
+repository.dart
+
+
+======================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\domain\
+======================================================
+contract.dart
+use_case.dart
+
+
+======================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\entity\
+======================================================
+product.dart
+
+
+==================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\
+==================================================
+authentication_bloc.dart
+
+
+=============================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\pages\home\
+=============================================================
+home.dart
+
+
+=====================================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\pages\home\widgets\
+=====================================================================
+buttom.dart
+
+
+==============================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\pages\login\
+==============================================================
+login.dart
+
+
+========================================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\pages\recoverPassword\
+========================================================================
+recoverPassword.dart
+
+
+=================================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\pages\register\
+=================================================================
+register.dart
+
+
+=========================================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\pages\register\widgets\
+=========================================================================
+selectCountry.dart
+
+
+==========================================================
+C:\Users\Angel\Desktop\Overgroup\testsweet\lib\ui\widgets\
+==========================================================
+carouselGradientButtons.dart
+chatGroup.dart
+check.dart
+constants.dart
+customIcons.dart
+customSelect.dart
+generalButtom.dart
+gradientButtom.dart
+iconButtom.dart
+message.dart
+passwordInput.dart
+textInput.dart
+
+
+{
+name: nombre;
+password: brypt(la contraseña del man)
+telefono: number;
+areacode: +34
+refcode?: string;
+confirmaEdad: boolean;
+confirmaRecibirPromos: boolean;
+}
+
+div class="contenedor-padre"
+div class="contenedor de botones de registro (flex)"
+button class="ancho-full" style="min-width:100%"
+max width: 50%
+margin-left auto y margin right auto
+
+margin inline
